@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceairaF
 - 👀 I’m interested in becoming a front end web developer!
-- 🌱 I’m currently learning html, css, github
+- 🌱 I’m currently learning html, css, github, JavaScript
 - 📫 How to reach me: ceaira.F@gmail.com
 
 <!---
